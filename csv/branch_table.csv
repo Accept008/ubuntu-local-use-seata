@@ -1,0 +1,3 @@
+branch_id,xid,transaction_id,resource_group_id,resource_id,lock_key,branch_type,status,client_id,application_data,gmt_create,gmt_modified
+2039283457,10.19.0.146:8091:2039283455,2039283455,NULL,jdbc:mysql://127.0.0.1/seat-order,`order`:13,AT,2,order-server:10.19.0.146:58912,NULL,"2020-03-30 08:29:57","2020-03-30 08:29:57"
+2039283460,10.19.0.146:8091:2039283455,2039283455,NULL,jdbc:mysql://127.0.0.1/seat-storage,storage:1,AT,2,storage-server:10.19.0.146:50648,NULL,"2020-03-30 08:29:57","2020-03-30 08:29:57"

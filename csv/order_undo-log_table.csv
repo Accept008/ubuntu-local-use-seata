@@ -1,0 +1,2 @@
+id,branch_id,xid,context,rollback_info,log_status,log_created,log_modified,ext
+10,2039283494,10.19.0.146:8091:2039283492,serializer=jackson,...,0,"2020-03-30 08:35:16","2020-03-30 08:35:16",NULL
