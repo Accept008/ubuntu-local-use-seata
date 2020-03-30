@@ -1,7 +1,10 @@
 # seata使用(ubuntu系统)
    [官网](https://github.com/seata/seata)
+   
    [官方文档](https://seata.io/zh-cn/docs/overview/what-is-seata.html)
+   
    [官方demo](https://github.com/seata/seata-samples/tree/master/springcloud-eureka-feign-mybatis-seata)
+   
    [本文档使用demo](https://github.com/seata/seata-samples/tree/master/springcloud-eureka-feign-mybatis-seata)     
 
 ## 下载seata-server
@@ -28,9 +31,13 @@
         执行事务时创建,完成(执行、回滚)时自动销毁
         具体参见导出的csv文件、图片
    [order_undo-log_table.csv](./csv/order_undo-log_table.csv)
+   
    [global_table.csv](./csv/global_table.csv)
+   
    [branch_table.csv](./csv/branch_table.csv)
+   
    [lock_table.csv](./csv/lock_table.csv)     
+   
    ![image](./img/seata-order-undo-log.png)
    
 # springcloud-eureka-feign-mybatis-seata 官网说明
